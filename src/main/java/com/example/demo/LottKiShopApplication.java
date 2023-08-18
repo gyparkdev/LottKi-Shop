@@ -8,7 +8,7 @@ public class LottKiShopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LottKiShopApplication.class, args);
-		System.out.println("박박박");
+		System.out.println("박박박과 김김김");
 	}
 
 }
